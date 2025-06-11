@@ -6,9 +6,7 @@ Siga os passos abaixo para instalar o programa **Usa Despachos** no seu computad
 
 ## 📥 1. Download do Instalador
 
-- Acesse o site e clique no link:  
-  👉 **`UsaDespachos_v1.0.0.exe`**  
-  para iniciar o download.
+- Acesse o site e clique no link 👉 [UsaDespachos_v1.0.0.exe](https://github.com/MatheusMeloSDEV/UsaDespachos/releases/download/1.0.0/UsaDespachos_v1.0.0.exe) para iniciar o download.
 
 ![Captura de tela 2025-06-11 194346](https://github.com/user-attachments/assets/ac940587-8ddc-407c-b0ec-64807b71a7cb)
 
